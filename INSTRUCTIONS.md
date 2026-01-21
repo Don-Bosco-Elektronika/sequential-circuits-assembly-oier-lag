@@ -23,6 +23,7 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------| 
+
 | **74175** →   | <img width="1190" height="541" alt="Captura de pantalla 2026-01-21 140924" src="https://github.com/user-attachments/assets/ef26e230-1f3f-4a11-a21e-35121b113577" />
  |
 | **7476** → | <img width="1126" height="506" alt="Captura de pantalla 2026-01-21 140807" src="https://github.com/user-attachments/assets/a5a8543f-97bc-4681-8d35-4e5af1f003ca" />
