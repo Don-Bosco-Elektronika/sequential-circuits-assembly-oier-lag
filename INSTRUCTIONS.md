@@ -23,13 +23,13 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------| 
-| **74175** →   | (<img width="1190" height="541" alt="Captura de pantalla 2026-01-21 140924" src="https://github.com/user-attachments/assets/ef26e230-1f3f-4a11-a21e-35121b113577" />
+| **74175** →   | <img width="1190" height="541" alt="Captura de pantalla 2026-01-21 140924" src="https://github.com/user-attachments/assets/ef26e230-1f3f-4a11-a21e-35121b113577" />
  |
-| **7476** → | (<img width="1126" height="506" alt="Captura de pantalla 2026-01-21 140807" src="https://github.com/user-attachments/assets/a5a8543f-97bc-4681-8d35-4e5af1f003ca" />
+| **7476** → | <img width="1126" height="506" alt="Captura de pantalla 2026-01-21 140807" src="https://github.com/user-attachments/assets/a5a8543f-97bc-4681-8d35-4e5af1f003ca" />
  |
-| **74164** → | (<img width="1285" height="554" alt="Captura de pantalla 2026-01-21 140724" src="https://github.com/user-attachments/assets/75d936c6-f194-4144-a032-c6b5e370d189" />
+| **74164** → | <img width="1285" height="554" alt="Captura de pantalla 2026-01-21 140724" src="https://github.com/user-attachments/assets/75d936c6-f194-4144-a032-c6b5e370d189" />
  |
-| **74165** →  | (<img width="1347" height="599" alt="Captura de pantalla 2026-01-21 140627" src="https://github.com/user-attachments/assets/64ecb82a-2bed-4655-b6dd-f4e768ce5a82" />
+| **74165** →  | <img width="1347" height="599" alt="Captura de pantalla 2026-01-21 140627" src="https://github.com/user-attachments/assets/64ecb82a-2bed-4655-b6dd-f4e768ce5a82" />
  |
 
 
